@@ -1,5 +1,7 @@
 ### Olá! Eu sou o João Marquardt
 
+- Cursando o último ano do técnico de T.I no CEFET/RJ
+
 - 🌱 Atualmente estudando JavaScript e Java POO
 
 <div align="center">
