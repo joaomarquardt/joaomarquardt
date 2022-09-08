@@ -2,7 +2,7 @@
 
 - Cursando o último ano do técnico de T.I no CEFET/RJ
 
-- 🌱 Atualmente estudando JavaScript e Java POO
+- 🌱 Atualmente estudando Java POO
 
 <div align="center">
   <a href="https://github.com/joaomarquardt">
