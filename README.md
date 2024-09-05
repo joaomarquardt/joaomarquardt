@@ -1,8 +1,8 @@
 ### Olá! Eu sou o João Marquardt
 
-- Cursando o último ano do técnico de T.I no CEFET/RJ
+- Cursando bacharelado em Sistemas de Informação 📗💻
 
-- 🌱 Atualmente estudando Java POO
+- 🌱 Atualmente estudando AWS Cloud e Spring Boot
 
 <div align="center">
   <a href="https://github.com/joaomarquardt">
