@@ -14,7 +14,7 @@
 
 #
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9leXE0bWxlcDZ1MGNybTExc2VsdHQ2MnpndTR5Njl6NWozOHhyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWD3CtcudWL28/giphy.gif"  />
+<img align="right" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9leXE0bWxlcDZ1MGNybTExc2VsdHQ2MnpndTR5Njl6NWozOHhyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWD3CtcudWL28/giphy.gif"  />
 
 ###
 <div align="left">
@@ -61,8 +61,7 @@
 
 ###
 
-<br clear="both">
-
+# 
 <img src="https://github.com/joaomarquardt/joaomarquardt/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
