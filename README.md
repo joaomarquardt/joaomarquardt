@@ -1,23 +1,23 @@
 <div>
-  <h1 align="left">Olá! Meu nome é João Marquardt</h1>
+  <h1 align="left">Hi! My name is João Marquardt</h1>
   <img align="right" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9leXE0bWxlcDZ1MGNybTExc2VsdHQ2MnpndTR5Njl6NWozOHhyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWD3CtcudWL28/giphy.gif"  />
 </div>
 
-- Formado em Informática pelo CEFET/RJ 🧑‍🎓
+- Graduated in Computing from CEFET/RJ 🧑‍🎓
 
-- Cursando bacharelado em Sistemas de Informação 📗💻
+- Studying for a bachelor's degree in Information Systems 📗💻
 
-- 🌱 Atualmente estudando Spring Boot
+- 🌱 Currently studying Spring Boot
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaomarquardt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=pt-BR&hide_border=false" height="320" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaomarquardt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="320" alt="stats graph" />
 </div>
 
 #
 
-### Conhecimentos
+### Skills
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
     <img width="5" />
@@ -46,7 +46,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   </div>
 
-### Contatos
+### Contacts
 
 <div align="left">
   <a href="https://www.instagram.com/jv.marquardt">
