@@ -1,8 +1,7 @@
-<div align="center">
-<img align="center" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9leXE0bWxlcDZ1MGNybTExc2VsdHQ2MnpndTR5Njl6NWozOHhyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWD3CtcudWL28/giphy.gif"  />
+<div>
+  <h1 align="left">Olá! Meu nome é João Marquardt</h1>
+  <img align="right" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9leXE0bWxlcDZ1MGNybTExc2VsdHQ2MnpndTR5Njl6NWozOHhyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWD3CtcudWL28/giphy.gif"  />
 </div>
-
-<h1 align="left">Olá! Meu nome é João Marquardt</h1>
 
 - Formado em Informática pelo CEFET/RJ 🧑‍🎓
 
@@ -18,7 +17,7 @@
 
 #
 
-###
+### Conhecimentos
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
     <img width="5" />
@@ -47,7 +46,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   </div>
 
-###
+### Contatos
 
 <div align="left">
   <a href="https://www.instagram.com/jv.marquardt">
