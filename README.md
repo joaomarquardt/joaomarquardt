@@ -63,6 +63,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/joaomarquardt/joaomarquardt/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/joaomarquardt/joaomarquardt/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
