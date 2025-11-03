@@ -65,4 +65,6 @@
 # 
 <img src="https://github.com/joaomarquardt/joaomarquardt/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
+<a href="https://u8views.com/github/joaomarquardt"><img src="https://u8views.com/api/v1/github/profiles/65197159/views/day-week-month-total-count.svg"></a>
+
 ###
