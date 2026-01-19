@@ -1,6 +1,6 @@
 <div>
 
-  <h1 align="left">Hi! My name is João Marquardt</h1>
+  <h1 align="center">Hi! My name is João Marquardt</h1>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=joaomarquardt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="320" alt="stats graph" />
 
